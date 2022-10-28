@@ -14,6 +14,6 @@
     },
     "scripts": {
         "serve": "node server.js",
-        "build": "parcel build --dist-dir dist src/index.html"
+        "build": "npx parcel build --dist-dir dist src/index.html"
     }
 }
